@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload - this is the change.
-          Adding commit2
+          Adding commit3
         </p>
         <a
           className="App-link"
